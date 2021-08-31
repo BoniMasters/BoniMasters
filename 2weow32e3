@@ -1,0 +1,5 @@
+int x =2;
+if(x=2) text ("yes")
+else(
+text("no")
+)
